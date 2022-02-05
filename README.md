@@ -8,12 +8,7 @@ Clone o ProjetoAngular
 ```bash
   git clone https://github.com/2dsant/ToDo-List-Angular.git
 ```
-na pasta raiz, entre no diretório do app
-
-```bash
-  cd CarrinhoApp
-```
-instale as depedências
+na pasta raiz e instale as depedências
 
 ```bash
   npm i
